@@ -1,0 +1,19 @@
+.ytp-play-progress {
+
+    background-image: linear-gradient(#f00, #f90, #ff0, #3f0, #09f, #63f) !important;
+}
+
+.ytp-scrubber-button {
+
+    background-image: url('https://www.nyan.cat/cats/original.gif') !important;
+    background-size: cover !important;
+    width: 34px!important;
+    height: 21px!important;
+}
+.ytp-scrubber-container{
+    top: -7px !important;
+    left: -17px !important;
+}
+.ytp-swatch-background-color{
+    background-color: unset !important;
+}
