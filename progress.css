@@ -7,13 +7,15 @@
 
     background-image: url('https://www.nyan.cat/cats/original.gif') !important;
     background-size: cover !important;
-    width: 34px!important;
-    height: 21px!important;
+    width: 34px !important;
+    height: 21px !important;
 }
-.ytp-scrubber-container{
+
+.ytp-scrubber-container {
     top: -7px !important;
     left: -17px !important;
 }
-.ytp-swatch-background-color{
+
+.ytp-swatch-background-color {
     background-color: unset !important;
 }
